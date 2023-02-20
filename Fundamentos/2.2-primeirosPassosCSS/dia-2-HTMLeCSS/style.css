@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+    
+}
+
+
+h1 {
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+}
+
+
+ul {
+    background-color: bisque;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.cor-de-fundo {
+    background-color: blanchedalmond;
+}
+
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+
+#banana {background-color: yellow;}
+#maca {background-color: red;}
+#goiaba {background-color: yellowgreen;}   
